@@ -97,7 +97,7 @@ A React-based cricket project built with TypeScript and Vite.
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=farhadcodesstack&style=flat-square)
+![Profile Views](https://visitor-badge.glitch.eu/badge?page_id=farhadcodesstack.github-readME)
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
