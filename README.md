@@ -89,7 +89,7 @@ A React-based cricket project built with TypeScript and Vite.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
@@ -97,7 +97,8 @@ A React-based cricket project built with TypeScript and Vite.
 
 ---
 
-![Profile Views](https://visitor-badge.glitch.eu/badge?page_id=farhadcodesstack.github-readME)
+### Profile Views
+![Profile Views](https://visitor-badge.glitch.eu/badge?page_id=farhadcodesstack.github-readme)
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
