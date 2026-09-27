@@ -1,47 +1,103 @@
-<h1 align="center">Hi 👋, I'm Joynal Abedin Farhad</h1>
-<h3 align="center">Junior Full-Stack Web Developer focused on React & Next.js | JavaScript • TypeScript • OOP | Building real-world projects</h3>
+# Hi 👋, I'm Joynal Abedin Farhad
+### 🚀 Aspiring Full-Stack Developer | JavaScript | TypeScript | React | Next.js
 
-- 🔭 I’m currently working on [HTML, CSS, JavaScript, TypeScript, OOP, React & Next.js Projects](https://github.com/farhadcodesstack)
+---
 
-- 🌱 I’m currently learning **Advanced React & Next.js through real-world projects**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Frontend & Full-Stack Web Development Projects**
+I'm an aspiring full-stack developer passionate about building modern web applications.
+Currently learning **JavaScript, TypeScript, React, and Next.js** through hands-on projects.
+My goal is to become an **AI-driven full-stack developer** and build real-world applications. 🚀
 
-- 🤝 I’m looking for help with **Writing clean, scalable code and improving my Next.js development skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farhadcodesstack](https://github.com/farhadcodesstack)
+---
+---
 
-- 📝 I regularly write articles on [https://github.com/farhadcodesstack](https://github.com/farhadcodesstack)
+## 🎯 Currently Learning
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, OOP, React & Next.js**
+- Advanced React & Next.js
+- TypeScript
+- API Integration & Data Fetching
+- Git & GitHub
+- Modern Web Development Best Practices
 
-- 📫 How to reach me **speedfarhad@gmail.com**
+---
 
-- ⚡ Fun fact **⚡ I enjoy learning by building projects and turning ideas into real-world web applications.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhad-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhad-codes" height="30" width="40" /></a>
-<a href="https://fb.com/joynal.abedin.farhad.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joynal.abedin.farhad.2024" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### **Frontend**
 
-## 🛠️ Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
-</p>
+### **Programming & Concepts**
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
+![ES6+](https://img.shields.io/badge/ES6%2B-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadcodesstack&show_icons=true&locale=en&layout=compact" alt="farhadcodesstack" /></p>
+### **Tools**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadcodesstack&show_icons=true&locale=en" alt="farhadcodesstack" /></p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhadcodesstack&" alt="farhadcodesstack" /></p>
+---
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ Fit Log
+
+A modern workout and fitness application for planning workouts, saving routines, tracking completed exercises, and monitoring workout metrics.
+
+**Tech:** Next.js · TypeScript · React · Tailwind CSS · Context API
+
+[📂 GitHub Repository](https://github.com/farhadcodesstack/Fit-log-Project-6)
+
+---
+
+### 🧑‍💻 Dev Stack
+
+A development technology stack application built with React and TypeScript.
+
+**Tech:** React · TypeScript · Tailwind CSS · Vite
+
+[📂 GitHub Repository](https://github.com/farhadcodesstack/Dev-Stack-project-React-5)
+
+---
+
+### 🏏 BPL Dream
+
+A React-based cricket project built with TypeScript and Vite.
+
+**Tech:** React · TypeScript · Vite
+
+[📂 GitHub Repository](https://github.com/farhadcodesstack/Bpl-dream-project)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-codes/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhadcodesstack)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:speedfarhad@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcodesstack&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcodesstack&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=farhadcodesstack&style=flat-square)
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
