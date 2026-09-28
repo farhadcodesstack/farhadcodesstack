@@ -96,16 +96,43 @@ A React-based cricket project built with TypeScript and Vite.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcodesstack&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcodesstack&layout=compact&theme=default) |
+<div align="center">
 
----
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=speedfarhad-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="Farhad's GitHub Stats"
+  height="180"
+/>
 
-### Profile Views
-![Profile Views](https://visitor-badge.glitch.eu/badge?page_id=farhadcodesstack.github-readme)
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedfarhad-eng&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Farhad's Top Languages"
+  height="180"
+/>
+
+</div>
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## 👀 Profile Views
+
+<div align="center">
+
+<img 
+  src="https://komarev.com/ghpvc/?username=speedfarhad-eng&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
+
+</div>
+```
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=speedfarhad-eng&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
