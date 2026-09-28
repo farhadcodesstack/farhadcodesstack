@@ -95,22 +95,13 @@ A React-based cricket project built with TypeScript and Vite.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:speedfarhad@gmail.com)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=farhadcodesstack&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Farhad's GitHub Stats"
-  height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=farhadcodesstack&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcodesstack&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Farhad's Top Languages"
-  height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcodesstack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -120,10 +111,7 @@ A React-based cricket project built with TypeScript and Vite.
 
 <div align="center">
 
-<img 
-  src="https://komarev.com/ghpvc/?username=farhadcodesstack&label=Profile%20Views&style=flat"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=farhadcodesstack&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
