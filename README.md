@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./banner.png" alt="Joynal Abedin Farhad - Full Stack Web Developer" width="100%" />
+
+</div>
+---
+
 # Hi 👋, I'm Joynal Abedin Farhad
 ### 🚀 Aspiring Full-Stack Developer | JavaScript | TypeScript | React | Next.js
 
