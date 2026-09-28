@@ -100,38 +100,41 @@ A React-based cricket project built with TypeScript and Vite.
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=speedfarhad-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+<img
+  src="https://github-readme-stats.vercel.app/api?username=farhadcodesstack&show_icons=true&theme=tokyonight&hide_border=true"
   alt="Farhad's GitHub Stats"
   height="180"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedfarhad-eng&layout=compact&theme=tokyonight&hide_border=true"
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcodesstack&layout=compact&theme=tokyonight&hide_border=true"
   alt="Farhad's Top Languages"
   height="180"
 />
 
 </div>
-```
+
+---
 
 ## 👀 Profile Views
 
 <div align="center">
 
 <img 
-  src="https://komarev.com/ghpvc/?username=speedfarhad-eng&label=Profile%20Views&color=0e75b6&style=flat"
+  src="https://komarev.com/ghpvc/?username=farhadcodesstack&label=Profile%20Views&style=flat"
   alt="Profile Views"
 />
 
 </div>
-```
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img 
-  src="https://streak-stats.demolab.com?user=speedfarhad-eng&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=farhadcodesstack&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
