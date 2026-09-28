@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring full-stack developer passionate about building modern web applications.
-Currently learning **JavaScript, TypeScript, React, and Next.js** through hands-on projects.
+I'm an aspiring full-stack developer passionate about building modern web applications. 
+Currently learning **JavaScript, TypeScript, React, and Next.js** through hands-on projects. 
 My goal is to become an **AI-driven full-stack developer** and build real-world applications. 🚀
 
 
