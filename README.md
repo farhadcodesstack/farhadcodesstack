@@ -6,7 +6,7 @@
 
 
 # Hi 👋, I'm Joynal Abedin Farhad
-### 🚀 Aspiring Full-Stack Developer | JavaScript | TypeScript | React | Next.js
+### 🚀 Aspiring AI Driven Full-Stack Developer | JavaScript | TypeScript | React | Next.js
 
 ---
 
