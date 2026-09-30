@@ -43,6 +43,10 @@ My goal is to become an **AI-driven full-stack developer** and build real-world 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### **Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### **Programming & Concepts**
 
 ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
