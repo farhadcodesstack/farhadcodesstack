@@ -47,6 +47,10 @@ My goal is to become an **AI-driven full-stack developer** and build real-world 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### **Authentication**
+
+![Better Auth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
+
 ### **Programming & Concepts**
 
 ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
