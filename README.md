@@ -9,7 +9,7 @@
 ---
 <p align="center">
   <a href="https://github.com/farhadcodesstack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Aspiring+AI-Driven+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&lines=Aspiring+AI%2DDriven+Full%2DStack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
