@@ -6,28 +6,19 @@
 
 
 # Hi 👋, I'm Joynal Abedin Farhad
-### 🚀 Aspiring AI Driven Full-Stack Developer | JavaScript | TypeScript | React | Next.js
+<h3 align="center">🚀 Aspiring AI-Driven Full-Stack Developer | JavaScript | TypeScript | React | Next.js</h3>
 
----
+<p align="center"> Building modern web applications through hands-on projects and continuous learning. </p>
 
 ## 👨‍💻 About Me
 
-I'm an aspiring full-stack developer passionate about building modern web applications. 
-Currently learning **JavaScript, TypeScript, React, and Next.js** through hands-on projects. 
-My goal is to become an **AI-driven full-stack developer** and build real-world applications. 🚀
-
-
----
----
-
-## 🎯 Currently Learning
-
-- Advanced React & Next.js
-- TypeScript
-- API Integration & Data Fetching
-- Git & GitHub
-- Modern Web Development Best Practices
-
+- 🔭 Currently working on **[FitLog](https://github.com/farhadcodesstack/Fit-log-Project-6)** — a fitness and workout tracking web application
+- 🌱 Currently learning **Next.js, TypeScript, Authentication, MongoDB, and modern full-stack development**
+- 👯 Open to collaborating on **open-source and full-stack web development projects**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Git & GitHub**
+- 🎯 Goal: Become a skilled **AI-Driven Full-Stack Developer** and build real-world applications
+- 📫 Email: **[speedfarhad@gmail.com](mailto:speedfarhad@gmail.com)**
+- ⚡ Fun fact: **I enjoy turning ideas into web applications and debugging things until they finally work! 😄** 
 ---
 
 
@@ -56,13 +47,15 @@ My goal is to become an **AI-driven full-stack developer** and build real-world 
 ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
 ![ES6+](https://img.shields.io/badge/ES6%2B-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Tools**
+### **Design Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Development Tools**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
 ---
 
 ## 🚀 Featured Projects
@@ -97,8 +90,12 @@ A React-based cricket project built with TypeScript and Vite.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-codes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhadcodesstack)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-codes/)
+
+[![Discord](https://img.shields.io/badge/Discord-farhad362523-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/farhad362523)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:speedfarhad@gmail.com)
 
 ---
