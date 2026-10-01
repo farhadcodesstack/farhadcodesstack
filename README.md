@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[FitLog](https://github.com/farhadcodesstack/Fit-log-Project-6)** — a fitness and workout tracking web application
+- - 🔭 Currently working on **[Final Practice Better Auth](https://github.com/farhadcodesstack/final-practice-better-auth)** — a Next.js project where I’m practicing authentication and full-stack development
 - 🌱 Currently learning **Next.js, TypeScript, Authentication, MongoDB, and modern full-stack development**
 - 👯 Open to collaborating on **open-source and full-stack web development projects**
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Git & GitHub**
