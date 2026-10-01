@@ -6,7 +6,11 @@
 
 
 # Hi 👋, I'm Joynal Abedin Farhad
-<h3 align="center">🚀 Aspiring AI-Driven Full-Stack Developer | JavaScript | TypeScript | React | Next.js</h3>
+<p align="center">
+  <a href="https://github.com/FuadAlMaimun-1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Full+Stack+Engineer;MERN+Stack+%26+Next.js+Developer;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center"> Building modern web applications through hands-on projects and continuous learning. </p>
 
