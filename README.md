@@ -67,9 +67,7 @@
 
 ### 🏋️ Fit Log
 
-A modern workout and fitness application for planning workouts, saving routines, tracking completed exercises, and monitoring workout metrics.
-
-**Tech:** Next.js · TypeScript · React · Tailwind CSS · Context API
+A modern fitness and workout tracking web application built with React, TypeScript, Tailwind CSS, and Context API.
 
 [📂 GitHub Repository](https://github.com/farhadcodesstack/Fit-log-Project-6)
 
@@ -77,9 +75,7 @@ A modern workout and fitness application for planning workouts, saving routines,
 
 ### 🧑‍💻 Dev Stack
 
-A development technology stack application built with React and TypeScript.
-
-**Tech:** React · TypeScript · Tailwind CSS · Vite
+A modern development technology stack web application built with React, TypeScript, Tailwind CSS, and Vite.
 
 [📂 GitHub Repository](https://github.com/farhadcodesstack/Dev-Stack-project-React-5)
 
@@ -87,9 +83,7 @@ A development technology stack application built with React and TypeScript.
 
 ### 🏏 BPL Dream
 
-A React-based cricket project built with TypeScript and Vite.
-
-**Tech:** React · TypeScript · Vite
+A cricket-themed web application built with React, TypeScript, and Vite.
 
 [📂 GitHub Repository](https://github.com/farhadcodesstack/Bpl-dream-project)
 
