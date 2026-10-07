@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[Final Practice Better Auth](https://github.com/farhadcodesstack/nextjs-better-auth-google-github)** — practicing **Better Auth, MongoDB, and Next.js** for modern full-stack development
+- 🔭 Currently working on **[Final Practice Better Auth](https://github.com/farhadcodesstack/worldwise-news-24-project)** — practicing **Better Auth, MongoDB, and Next.js** for modern full-stack development
 - 🌱 Currently learning **Next.js, TypeScript, Authentication, MongoDB, and modern full-stack development**
 - 👯 Open to collaborating on **open-source and full-stack web development projects**
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Git & GitHub**
